@@ -20,6 +20,7 @@ Una colección de máquinas vulnerables para practicar en un entorno local de Do
 | ------------- | --------- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | **Injection** | Muy Fácil | Linux | [**Ver Solución**](https://github.com/Andy1232866/hacking-writeups/blob/25cdc1c90f1cda609312e837c863bb4615a554b8/DockerLabs/Injection.pdf)|
 | **Trust**     | Muy Fácil | Linux | [**Ver Solución**](https://github.com/Andy1232866/hacking-writeups/blob/main/DockerLabs/Trust.pdf)                                        |
+| **BreakMySSH**| Muy Fácil | Linux | [**Ver Solución**](DockerLabs/BreakMySSH.pdf)
 
 <br>
 
