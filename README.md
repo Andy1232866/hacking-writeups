@@ -22,6 +22,7 @@ Una colección de máquinas vulnerables para practicar en un entorno local de Do
 | **Trust**     | Muy Fácil | Linux | [**Ver Solución**](/DockerLabs/Trust.pdf)          |
 | **BreakMySSH**| Muy Fácil | Linux | [**Ver Solución**](DockerLabs/BreakMySSH.pdf)      |
 | **FirstHacking** | Muy Fácil | Linux | [**Ver Solución**](DockerLabs/FirstHacking.pdf) |
+| **HedgeHog**  | Muy Fácil | Linux | [**Ver Solución**](DockerLabs/HedgeHog.pdf)        |
 
 <br>
 
