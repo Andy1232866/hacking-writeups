@@ -17,12 +17,13 @@ La navegación es simple. Los *write-ups* están organizados por la plataforma a
 Una colección de máquinas vulnerables para practicar en un entorno local de Docker.
 
 |    Máquina    | Dificultad | Sistema Operativo | Write-up |
-| ------------- | --------- | ----- | ---------------------------------------------------|
-| **Injection** | Muy Fácil | Linux | [**Ver Solución**](DockerLabs/Injection.pdf)       |
-| **Trust**     | Muy Fácil | Linux | [**Ver Solución**](/DockerLabs/Trust.pdf)          |
-| **BreakMySSH**| Muy Fácil | Linux | [**Ver Solución**](DockerLabs/BreakMySSH.pdf)      |
-| **FirstHacking** | Muy Fácil | Linux | [**Ver Solución**](DockerLabs/FirstHacking.pdf) |
-| **HedgeHog**  | Muy Fácil | Linux | [**Ver Solución**](DockerLabs/HedgeHog.pdf)        |
+| ------------- | --------- | ----- | ------------------------------------------------------|
+| **Injection** | Muy Fácil | Linux | [**Ver Solución**](DockerLabs/Injection.pdf)          |
+| **Trust**     | Muy Fácil | Linux | [**Ver Solución**](/DockerLabs/Trust.pdf)             |
+| **BreakMySSH**| Muy Fácil | Linux | [**Ver Solución**](DockerLabs/BreakMySSH.pdf)         |
+| **FirstHacking** | Muy Fácil | Linux | [**Ver Solución**](DockerLabs/FirstHacking.pdf)    |
+| **HedgeHog**  | Muy Fácil | Linux | [**Ver Solución**](DockerLabs/HedgeHog.pdf)           |
+| **BorazuwarahCTF** | Muy Fácil | Linux | [**Ver Solución**](DockerLabs/BorazuwarahCTF.pdf)|
 
 <br>
 
